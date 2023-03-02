@@ -1,2 +1,2 @@
-# DevOpsLab2Q2Webhook!!!!
-COMP367!!
+# DevOpsLab2Q2Webhook
+
