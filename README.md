@@ -1,4 +1,3 @@
-# DevOpsLab2Q2Webhook :D
+# DevOpsLab2Q2Webhook
 
-COMP367 - Andrea De Souza
 
